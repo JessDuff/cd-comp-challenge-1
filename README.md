@@ -6,3 +6,14 @@ I have recreated the page using flex-box in almost the whole body, the icons and
 ### And this is the clone (Google Chrome)
 ![ss-chrome](images/ss_chrome.png)
 
+### Firefox
+![ss-firefox](images/ss_firefox.png)
+
+### Safari
+![ss-safari](images/ss_safari.png)
+
+### Tablet size (Chrome)
+![ss-tablet-chrome](images/ss_tablet.png)
+
+### Phone size (Chrome)
+![ss-phone-chrome](images/ss_phone.png)
